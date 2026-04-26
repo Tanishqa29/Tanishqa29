@@ -1,4 +1,4 @@
-# 👩‍💻 Hi, I'm Tanishqa (Tawa)
+# 👩‍💻 Hi, I'm Tanishqa 
 
 🚀 Aspiring VAPT Analyst | Bug Bounty Learner  
 🔐 Focused on API Security, Access Control & Real-world Exploitation  
